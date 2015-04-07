@@ -1,0 +1,9 @@
+I manage to overcome 2 things with same solution:
+
+1.  the game i coded is ending if original checkmate occur. that's mean that only if no one
+    can protect the king, the game ended. i did it by checking if no move is legal, and if no
+    move is legal and the king is in check, the game ending.
+2.  the program can handle satlemate case (some kind of tie). again, checking if no move is
+    legal. if so, and if the player not in check, then the game is over with satelmate.
+
+hope to get bonus for both solutions, even though they've solved at once.
